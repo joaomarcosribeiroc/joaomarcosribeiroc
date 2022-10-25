@@ -9,11 +9,21 @@
 👨‍💻 I've in touch with programming **since 2011**. When I got started with learning **low level programming languages**, like C, C++ and also some Pascal theory. From there, I have taken a **deep dive into computer essentials**, actually learning some low level aspects of computer. This interest gave me a well understanding of computer essentials, how does it actually work and made me better programmer over time. Today, in the software industry I've been in the position of revising other team members works, orienting the team about better practices on software development, **leading other team members in their daily programming tasks** and also programming microsservices, monoliths and serveless applications on cloud. I will detail more the technologies I've been in touch along the years.
 
 ### Languages I use to talk to computer 🤔
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><br>
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
-<p>&nbsp;</p>
+#### Programming Languages
 
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> This is the main programming language I use today to build applications
+| Name | Description |
+|:----:|:------------|
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | This is the main programming language I use today to build applications |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | This is the programming language that I build my foundations upon. The one that helpe learning import concepts like data strucutres, object oriented aproach and data processing |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | This is the first programming language I learned, the one that helpe learn about resource/memory managment |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A convinient programming language built on top of C. Most used for data processing and AI models. Also used in AWS Lambda functions and backend systens with django |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A browser programming language for dynamic pages but also has found a new home in backend service based on nodeJS. I have pratical experience on this language building frontend applications with Angular and mantaing ReactJS apps. |
+| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | A good and versatle programming language I used when building mobile applications for android devices on flutter platform |
+
+#### Scripting Languages
+| Name | Description |
+|:----:|:------------|
+| ![Bash Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Language I use to talk to linux systens and automate repetitive daily tasks during local development |
 
 ## Software Quality
 
