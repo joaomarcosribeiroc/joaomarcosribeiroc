@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!--
-**joaomarcosribeiroc/joaomarcosribeiroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> -->
-
 ## 🚀 About Me
 
-🎓 I am Ayush Kumar, a **Full Stack Web Developer** (specializing in **React Applications and NodeJS**) and a [**Freelancer**] I am also Pursuing my Bachelor in **Electronics  & Communication Engineering** and will graduate in mid-2023.
+🎓 I am João Marcos Ribeiro, a **Computer Programmer** and the phrase, "how does this work" under the hood is what drive me and push me foward.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Organizations including, **Material Kit React**, **MetaCall**, **Circuitverse**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **ReactJS**, **NodeJS**, **Django**, **Micro-Frontend Architecture** and **Backend Development**. I got started with [**Freelancing**]Some of my freelancing projects available at my [**Github Profile**](https://github.com/Ayush7614)
+**Experience with computers**
+👨‍💻 I've in touch with programming since 2011. When I got started with learning low level programming languages, like C, C++ and also some Pascal theory. From there, I have taken a deep dive into computer essentials, actually learning some low level aspects of computer. This interest gave me a well understanding of computer essentials and also made me better programmer over time.
 
 ### Languages I use to talk to computer 🤔
 
