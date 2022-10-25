@@ -4,8 +4,9 @@
 
 🎓 I am João Marcos Ribeiro, a **Computer Programmer** and the phrase, "how does this work" under the hood is what drive me and push me foward.
 
-**Experience with computers**
-👨‍💻 I've in touch with programming since 2011. When I got started with learning low level programming languages, like C, C++ and also some Pascal theory. From there, I have taken a deep dive into computer essentials, actually learning some low level aspects of computer. This interest gave me a well understanding of computer essentials and also made me better programmer over time.
+## Experience with computers
+
+👨‍💻 I've in touch with programming **since 2011**. When I got started with learning **low level programming languages**, like C, C++ and also some Pascal theory. From there, I have taken a **deep dive into computer essentials**, actually learning some low level aspects of computer. This interest gave me a well understanding of computer essentials, how does it actually work and made me better programmer over time. Today, in the software industry I've been in the position of revising other team members works, orienting the team about better practices on software development, **leading other team members in their daily programming tasks** and also programming microsservices, monoliths and serveless applications on cloud. I will detail more the technologies I've been in touch along the years.
 
 ### Languages I use to talk to computer 🤔
 
