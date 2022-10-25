@@ -8,16 +8,16 @@
 
 👨‍💻 I've in touch with programming **since 2011**. When I got started with learning **low level programming languages**, like C, C++ and also some Pascal theory. From there, I have taken a **deep dive into computer essentials**, actually learning some low level aspects of computer. This interest gave me a well understanding of computer essentials, how does it actually work and made me better programmer over time. Today, in the software industry I've been in the position of revising other team members works, orienting the team about better practices on software development, **leading other team members in their daily programming tasks** and also programming microsservices, monoliths and serveless applications on cloud. I will detail more the technologies I've been in touch along the years.
 
+### Languages I use to talk to computer 🤔
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><br>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
+<p>&nbsp;</p>
+
+<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> This is the main programming language I use today to build applications
+
 ## Software Quality
 
 As I have a background education also in **business administration** field, I use to apply some important concepts for the success of **high quality software delivery**. To name a few, when applying **agile filosofy** on software development we are also forming the basis for **continuos improvement**, giving room for high quality software deliverance that can enhance over time. High quality and eficient software does not depend only on technical skills but also on managing, prioritizing and identified bottlenecks in the process. 
-
-### Languages I use to talk to computer 🤔
-
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-	<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<p>&nbsp;</p>
 
 ### Front-End, Backend Development, Design, Hosting, Tools
 
